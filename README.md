@@ -1,4 +1,4 @@
-# Space-Shooter
+# Space Shooter
 
 A basic space shooter game, written in C# with Unity 2019.
 
